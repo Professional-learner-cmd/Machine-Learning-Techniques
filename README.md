@@ -6,3 +6,5 @@ The models used in this task is:
 3. Logistic Regression
 4. Naives Bayes
 5. Neural Networks
+
+The data set is imported from Kaggle.
